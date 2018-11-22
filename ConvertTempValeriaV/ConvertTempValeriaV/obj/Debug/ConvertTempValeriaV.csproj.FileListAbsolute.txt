@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\bin\Debug\ConvertTempValeriaV.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\bin\Debug\ConvertTempValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\bin\Debug\ConvertTempValeriaV.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\obj\Debug\ConvertTempValeriaV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\obj\Debug\ConvertTempValeriaV.frmConvertTemp.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\obj\Debug\ConvertTempValeriaV.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\obj\Debug\ConvertTempValeriaV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\obj\Debug\ConvertTempValeriaV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\ConvertTempValeriaV\ConvertTempValeriaV\obj\Debug\ConvertTempValeriaV.pdb

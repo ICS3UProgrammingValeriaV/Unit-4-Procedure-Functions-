@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\bin\Debug\RoundingProgramVV.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\bin\Debug\RoundingProgramVV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\bin\Debug\RoundingProgramVV.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\obj\Debug\RoundingProgramVV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\obj\Debug\RoundingProgramVV.frmRounding.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\obj\Debug\RoundingProgramVV.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\obj\Debug\RoundingProgramVV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\obj\Debug\RoundingProgramVV.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Veverita, Valeria (s449619)\Unit 4 (Procedures & Functions)\RoundingProgramVV\RoundingProgramVV\obj\Debug\RoundingProgramVV.pdb
