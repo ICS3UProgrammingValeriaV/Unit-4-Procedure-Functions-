@@ -24,6 +24,10 @@ namespace PercentageProgramVV
             InitializeComponent();
         }
 
+        //Function: ConvertToPerecent
+        //Input: string level
+        //Output: int perecentage
+        //This function converts user's grade level to percentage
         private int ConvertToPercent(String level)
         {
             int percentage;
@@ -92,9 +96,11 @@ namespace PercentageProgramVV
 
         private void btnConvert_Click(object sender, EventArgs e)
         {
+            //get the user level
             String userLevel = txtGrade.Text;
+            //call ConvertToPercent() and assign the output to userPercentage variable
             int userPercentage = ConvertToPercent(userLevel);
-
+            //display the answer in a message box
             MessageBox.Show(userLevel + " is " + userPercentage + "%");
         }
     }
