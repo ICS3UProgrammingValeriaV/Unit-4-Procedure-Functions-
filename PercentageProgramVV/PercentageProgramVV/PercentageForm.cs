@@ -58,34 +58,37 @@ namespace PercentageProgramVV
                     percentage = 68;
                     break;
                 case "2":
-                    percentage = 98;
+                    percentage = 65;
                     break;
                 case "2-":
-                    percentage = 95;
+                    percentage = 62;
                     break;
                 case "1+":
-                    percentage = 87;
+                    percentage = 58;
                     break;
                 case "1":
-                    percentage = 83;
+                    percentage = 55;
                     break;
                 case "1-":
-                    percentage = 78;
+                    percentage = 52;
+                    break;
+                case "0+":
+                    percentage = 45;
                     break;
                 case "0":
-                    percentage = 75;
+                    percentage = 40;
                     break;
                 case "0-":
-                    percentage = 72;
+                    percentage = 35;
                     break;
                 case "0--":
-                    percentage = 68;
+                    percentage = 30;
                     break;
                 case "0---":
-                    percentage = 75;
+                    percentage = 20;
                     break;
                 case "0----":
-                    percentage = 72;
+                    percentage = 10;
                     break;
                 default:
                     percentage = -1;
